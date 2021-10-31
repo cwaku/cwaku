@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. I Spend most of time coding outstanding projects or doing digital marketing stuff.
+I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend most of time coding outstanding projects or doing digital marketing stuff.
 
 :mailbox: Reach me out!
 
