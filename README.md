@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=I%20see%20you%20found%20me&fontSize=90&fontAlignY=45&desc=...read%20a%20little%20about%20me&descSize=30&descAlignY=60&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I%20see%20you%20found%20me&fontSize=70&fontAlignY=30&desc=...read%20a%20little%20about%20me&descSize=30&descAlignY=55&animation=blinking" />
 
 ## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
@@ -116,4 +116,4 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=footer&text=Done?&fontSize=90&fontAlignY=60&desc=I'd%20love%20to%20hear%20from%20you,%20Don't%20forget%20to%20say%20hi&descSize=30&descAlignY=75&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Done?&fontSize=90&fontAlignY=65&desc=I'd%20love%20to%20hear%20from%20you,%20Don't%20forget%20to%20say%20hi&descSize=30&descAlignY=88&animation=twinkling"/>
