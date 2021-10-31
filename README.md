@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=I%20see%20you%20found%20me&fontSize=90&fontAlignY=45&desc=...read%20a%20little%20about%20me&descSize=30&descAlignY=60&animation=blinking" />
+
+## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+<br>
+<br>
 
 <!--
 **cwaku/cwaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,27 +21,24 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<!--
-I'm Ricky Mormor a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
+
+I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. I Spend most of time coding outstanding projects or doing digital marketing stuff.
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@rickymormor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickymormor)](https://twitter.com/rickymormor) [![Linkedin Badge](https://img.shields.io/badge/-rickymormor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickymormor/) [![Mail Badge](https://img.shields.io/badge/-@rickymormor-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-rickymormor1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rickymormor1@gmail.com)
 
-<!-- TODO: Add last video link --
 
-- 🔭 I’m currently working at @Toptal
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+- 🔭 I’m currently a student at Student at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 🤔 I’m looking for help with Outstanding Project ideas. <br>
+- 📫 How to reach me: rickymormor1@gmail.com.
+- 😄 Pronouns: ***He/His*** or ***TeamWorker***
+- ⚡ Fun fact: *I Always try to learn something new and then sleep till it store in the brain*<br>
 
--->
-<!-- TODO: Make technologies links takes you to repositories -->
-
-### Tech & Tools Preference
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech & Tools Preference***
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -58,17 +61,13 @@ I'm Ricky Mormor a Full Stack Web Developer and Content Creator on [Youtube](htt
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white">
+<img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white">
 
-
-<img src="http://img.shields.io/badge/CSS3-1572B6?style=flat&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 
 
-
-<br />
-<br />
 <!---
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
@@ -116,3 +115,5 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=footer&text=Done?&fontSize=90&fontAlignY=60&desc=I'd%20love%20to%20hear%20from%20you,%20Don't%20forget%20to%20say%20hi&descSize=30&descAlignY=75&animation=twinkling"/>
