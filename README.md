@@ -31,7 +31,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m currently a student at Student at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/)
+- 🔭 I’m currently a Student at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Project ideas. <br>
 - 📫 How to reach me: rickymormor1@gmail.com.
