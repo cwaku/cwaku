@@ -43,16 +43,18 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/Git-GitBash-black?style=flat&logo=git&logoColor=white">
@@ -66,6 +68,9 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
 <img src="https://aleen42.github.io/badges/src/photoshop.svg">
 <img src="https://aleen42.github.io/badges/src/illustrator.svg">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
@@ -74,17 +79,12 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 
 
-<!--nelify and linux-->
-
-<!---
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+<!-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)-->
+- :email: rickymormor1@gmail.com
 
 
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
 <details>
 <summary>
@@ -109,19 +109,20 @@ Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
-<!--END_SECTION:waka--
+<!--END_SECTION:waka-->
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cwaku&theme=onedark)](https://github.com/cwaku/github-profile-trophy)
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=tokyonight)
+
+<p align="center">
+  <br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=cwaku&theme=chartreuse-dark">
+</p>
 
 </details>
 
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
--->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Done?&fontSize=90&fontAlignY=65&desc=I'd%20love%20to%20hear%20from%20you,%20Don't%20forget%20to%20say%20hi&descSize=30&descAlignY=88&animation=twinkling"/>
