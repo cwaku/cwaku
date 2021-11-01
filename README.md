@@ -87,8 +87,8 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 
 <details>
-<summary>
-  More stuff about me
+<summary style="font-size:20px;">
+  Click here to view More stuff about me
 </summary>
 
 <br >
@@ -99,20 +99,7 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 #### Who is CoderOne?
 
 CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and framewor''ggg''ks and anything really related to development world.cccc
-
-<!-- waka-box start -->
- <!-- waka-box end -->
-#### Coding Stats
-
-<!--START_SECTION:waka--
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
+-->
  
 
 #### Github Stats
