@@ -98,8 +98,7 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 <!--
 #### Who is CoderOne?
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
--->
+CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.cccc
 
 <!-- waka-box start -->
  <!-- waka-box end -->
