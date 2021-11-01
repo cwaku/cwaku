@@ -99,6 +99,8 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
+<!-- waka-box start -->
+ <!-- waka-box end -->
 #### Coding Stats
 
 <!--START_SECTION:waka--
@@ -110,8 +112,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
- <!-- waka-box start -->
- <!-- waka-box end -->
+ 
 
 #### Github Stats
 
