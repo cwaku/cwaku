@@ -110,12 +110,16 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
+ <!-- waka-box start -->
+ <!-- waka-box end -->
 
 #### Github Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cwaku&theme=onedark)](https://github.com/cwaku/github-profile-trophy)
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=tokyonight)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cwaku&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
   <br>
