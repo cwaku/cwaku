@@ -66,7 +66,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
 <img src="https://aleen42.github.io/badges/src/photoshop.svg">
 <img src="https://aleen42.github.io/badges/src/illustrator.svg">
-<img src="https://img.shields.io/badge/Microsoft-666666?style=flat&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
 
