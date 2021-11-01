@@ -5,29 +5,11 @@
 <br>
 <br>
 
-<!--
-**cwaku/cwaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend most of time coding outstanding projects or doing digital marketing stuff.
 
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@rickymormor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickymormor)](https://twitter.com/rickymormor) [![Linkedin Badge](https://img.shields.io/badge/-rickymormor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickymormor/) [![Mail Badge](https://img.shields.io/badge/-@rickymormor-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-rickymormor1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rickymormor1@gmail.com)
-
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -35,11 +17,11 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Project ideas. <br>
 - 📫 How to reach me: rickymormor1@gmail.com.
-- 😄 Pronouns: ***He/His*** or ***TeamWorker***
--  I’m looking to collaborate with any **Open - Source web projects**<br>
-- ⚡ Fun fact: *I Always try to learn something new and then sleep till it store in the brain*<br>
+- 😄 Pronouns: **_He/His_** or **_TeamWorker_**
+- I’m looking to collaborate with any **Open - Source web projects**<br>
+- ⚡ Fun fact: _I Always try to learn something new and then sleep till it store in the brain_<br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech & Tools Preference***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Tech & Tools Preference_**
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -75,32 +57,20 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 <img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
 
-
-
-
-
 #### Bizness
-<!-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)-->
+
+<!-- :paperclip: [My Resume/CV](https://github.com///blob/master/resumes/resume%20v1.0.pdf)-->
+
 - :email: rickymormor1@gmail.com
 
-
-
-
 <details>
-<summary style="font-size:20px;">
+<summary style="font-size:25px;">
   Click here to view More stuff about me
 </summary>
 
 <br >
 
 I love sharing knowledge and putting tutorials and posts together for helping other developers.
-
-<!--
-#### Who is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and framewor''ggg''ks and anything really related to development world.cccc
--->
- 
 
 #### Github Stats
 
@@ -116,6 +86,5 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 </p>
 
 </details>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Done?&fontSize=90&fontAlignY=65&desc=I'd%20love%20to%20hear%20from%20you,%20Don't%20forget%20to%20say%20hi&descSize=30&descAlignY=88&animation=twinkling"/>
