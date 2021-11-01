@@ -65,7 +65,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 <details>
 <summary style="font-size:25px;">
-  Click here to view More stuff about me
+  Click here to view More Stuff about me
 </summary>
 
 <br >
