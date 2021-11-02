@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I%20see%20you%20found%20me&fontSize=70&fontAlignY=30&desc=...read%20a%20little%20about%20me&descSize=30&descAlignY=55&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I%20see%20you%20found%20me&fontSize=70&fontAlignY=30&desc=...read%20a%20little%20about%20me&descSize=30&descAlignY=55&animation=blinking"/>
 
 ## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
@@ -11,7 +11,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 [![Twitter Badge](https://img.shields.io/badge/-@rickymormor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickymormor)](https://twitter.com/rickymormor) [![Linkedin Badge](https://img.shields.io/badge/-rickymormor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickymormor/) [![Mail Badge](https://img.shields.io/badge/-@rickymormor-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-rickymormor1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rickymormor1@gmail.com)
 
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 - 🔭 I’m currently a Student at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
