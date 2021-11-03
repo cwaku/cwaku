@@ -1,10 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I%20see%20you%20found%20me&fontSize=70&fontAlignY=30&desc=...read%20a%20little%20about%20me&descSize=30&descAlignY=55&animation=blinking"/>
 
 ## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
 <br>
-<br>
-
 I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend most of time coding outstanding projects or doing digital marketing stuff.
 
 :mailbox: Reach me out!
