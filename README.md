@@ -76,7 +76,7 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cwaku&theme=onedark)](https://github.com/cwaku/github-profile-trophy)
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=dark)
+![Ricky's github stats](https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cwaku&theme=dark)](https://git.io/streak-stats)
 
