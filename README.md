@@ -74,15 +74,15 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 
 #### Github Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cwaku&theme=onedark)](https://github.com/cwaku/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cwaku&theme=gruvbox)](https://github.com/cwaku/github-profile-trophy)
 
-![Ricky's github stats](https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=dark)
+![Ricky's github stats](https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=gruvbox)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cwaku&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cwaku&theme=gruvbox)](https://git.io/streak-stats)
 
 <p align="center">
   <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=cwaku&theme=chartreuse-dark">
+    <img src="https://activity-graph.herokuapp.com/graph?username=cwaku&bg_color=151515&color=dadada&line=fa8b00&point=FFFFFF">
 </p>
 
 </details>
