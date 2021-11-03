@@ -72,17 +72,25 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 I love sharing knowledge and putting tutorials and posts together for helping other developers.
 
-#### Github Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cwaku&theme=gruvbox)](https://github.com/cwaku/github-profile-trophy)
+## Github Stats
+<p align=center>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=cwaku&theme=gruvbox">
+</p>
 
-![Ricky's github stats](https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=gruvbox)
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=gruvbox&show_icons=true&hide_border=true">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cwaku&theme=gruvbox)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwaku&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=282828">
+</p>
 
+<p align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cwaku&theme=gruvbox">
+</p>
 <p align="center">
   <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=cwaku&bg_color=282828&color=dadada&line=fa8b00&point=FFFFFF">
+    <img src="https://activity-graph.herokuapp.com/graph?username=cwaku&bg_color=282828&color=dadada&line=fa8b00&point=FFFFFF&hide_border=true">
 </p>
 
 </details>
