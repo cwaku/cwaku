@@ -71,7 +71,7 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 
 ## Coding Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox&hide_border=true">
 </p>
 
 ## Github Stats
