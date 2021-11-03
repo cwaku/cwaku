@@ -69,6 +69,10 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 I love sharing knowledge and putting tutorials and posts together for helping other developers.
 
+## Github Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Github Stats
 <p align=center>
