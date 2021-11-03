@@ -82,7 +82,7 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 
 <p align="center">
   <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=cwaku&bg_color=151515&color=dadada&line=fa8b00&point=FFFFFF">
+    <img src="https://activity-graph.herokuapp.com/graph?username=cwaku&bg_color=282828&color=dadada&line=fa8b00&point=FFFFFF">
 </p>
 
 </details>
