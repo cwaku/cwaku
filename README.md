@@ -69,14 +69,10 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 I love sharing knowledge and putting tutorials and posts together for helping other developers.
 
-## Github Stats
-
-<!--START_SECTION:waka-->
-```text
-Markdown   1 hr 4 mins     █████████████████▒░░░░░░░   68.99 % 
-YAML       28 mins         ███████▓░░░░░░░░░░░░░░░░░   31.01 % 
-```
-<!--END_SECTION:waka-->
+## Coding Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox">
+</p>
 
 ## Github Stats
 <p align=center>
