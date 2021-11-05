@@ -5,6 +5,7 @@
 I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend most of time coding outstanding projects or doing digital marketing stuff.
 <br>
 <br>
+
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@rickymormor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickymormor)](https://twitter.com/rickymormor) [![Linkedin Badge](https://img.shields.io/badge/-rickymormor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickymormor/) [![Mail Badge](https://img.shields.io/badge/-@rickymormor-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-rickymormor1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rickymormor1@gmail.com)
@@ -72,7 +73,7 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 
 ## Coding Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox&hide_border=true&custom_title=Weekly%20wakatime%20stats">
 </p>
 
 ## Github Stats
