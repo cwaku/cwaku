@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I%20see%20you%20found%20me&fontSize=70&fontAlignY=30&desc=...read%20a%20little%20about%20me&descSize=30&descAlignY=55&animation=blinking"/>
 
+
+
 ## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br>
+
 I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend most of time coding outstanding projects or doing digital marketing stuff.
 <br>
 <br>
@@ -71,6 +74,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 I love sharing knowledge and putting tutorials and posts together for helping other developers.
 
+![Jokes Card](https://readme-jokes.vercel.app/api/ 'theme=merko')
 ## Coding Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox&hide_border=true&custom_title=Weekly%20wakatime%20stats">
