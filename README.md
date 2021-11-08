@@ -7,7 +7,6 @@
 
 I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend most of time coding outstanding projects or doing Digital Marketing stuff.
 <br>
-<br>
 
 :mailbox: Reach me out!
 
