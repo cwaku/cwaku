@@ -18,7 +18,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 - 📫 How to reach me: rickymormor1@gmail.com.
 - 😄 Pronouns: **_He/His_** or **_TeamWorker_**
 - I’m looking to collaborate with any **Open - Source web projects**<br>
-- ⚡ Fun fact: _I Always try to learn something new and then sleep till it stores in the brain_<br>
+- ⚡ Fun fact: _I always try to learn something new and then sleep till it stores in the brain_<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Tech & Tools Preference_**
 
