@@ -62,7 +62,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 - :email: rickymormor1@gmail.com
 
-<img src="https://media.giphy.com/media/YkyJ9jkSLlAQq0ongE/giphy.gif"/>
+<img src="https://media.giphy.com/media/YkyJ9jkSLlAQq0ongE/giphy.gif">
 <br>
 <details>
 <summary style="font-size:50px;">
