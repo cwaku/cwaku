@@ -62,26 +62,20 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 - :email: rickymormor1@gmail.com
 
-<img src="https://media.giphy.com/media/YkyJ9jkSLlAQq0ongE/giphy.gif">
-<br>
+<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" align="left" height="125px">
 <details>
 <summary style="font-size:50px;">
   Click here to view More Stuff about me
 </summary>
 
-<br>
-
+  <br>
+  
 I love sharing knowledge and putting tutorials and posts together for helping other developers.
 
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api/">
-</p>
-
+<p align="center"><img src="https://readme-jokes.vercel.app/api/"></p>
+  
 ## Coding Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox&hide_border=true&custom_title=Weekly%20wakatime%20stats">
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox&hide_border=true&custom_title=Weekly%20wakatime%20stats"></p>
 
 ## Github Stats
 <p align=center>
