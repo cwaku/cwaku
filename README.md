@@ -21,8 +21,6 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 - ⚡ Fun fact: _I always try to learn something new and then sleep till it stores in the brain_<br>
 
 
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwaku&theme=github_dark" alt="cwaku" align = "center"/></p>
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Tech & Tools Preference_**
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -90,6 +88,8 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=gruvbox&show_icons=true&hide_border=true"></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwaku&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=282828"></p>
+
+
 
 <p align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cwaku&theme=gruvbox">
