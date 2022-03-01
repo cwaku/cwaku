@@ -20,6 +20,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 - I’m looking to collaborate with any **Open - Source web projects**<br>
 - ⚡ Fun fact: _I always try to learn something new and then sleep till it stores in the brain_<br>
 
+<br>
 
 [![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -77,7 +78,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 I love sharing knowledge and putting tutorials and posts together for helping other developers.
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api/"></p>
-  
+
 ## Coding Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox&hide_border=true&custom_title=Weekly%20wakatime%20stats"></p>
 
