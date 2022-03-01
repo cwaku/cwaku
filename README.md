@@ -21,6 +21,8 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 - ⚡ Fun fact: _I always try to learn something new and then sleep till it stores in the brain_<br>
 
 
+[![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Tech & Tools Preference_**
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -85,19 +87,11 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 <img src="https://github-profile-trophy.vercel.app/?username=cwaku&theme=gruvbox">
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=gruvbox&show_icons=true&hide_border=true"></p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwaku&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=282828"></p>
 
 
-
-<p align=center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cwaku&theme=gruvbox">
-</p>
-<p align="center">
-  <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=cwaku&bg_color=282828&color=dadada&line=fa8b00&point=FFFFFF&hide_border=true">
-</p>
+[![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </details>
 
