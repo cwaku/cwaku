@@ -20,6 +20,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 - I’m looking to collaborate with any **Open - Source web projects**<br>
 - ⚡ Fun fact: _I always try to learn something new and then sleep till it stores in the brain_<br>
 
+<br>
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwaku&theme=github_dark" alt="cwaku" align = "center"/></p>
 
@@ -90,6 +91,15 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=gruvbox&show_icons=true&hide_border=true"></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwaku&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=282828"></p>
+
+
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cwaku&theme=github_dark" alt="cwaku" align = "left"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cwaku&theme=github_dark" alt="cwaku" align = "right"/></p>
+
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwaku&theme=github_dark" alt="cwaku" align = "left"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cwaku&theme=github_dark" alt="cwaku" align = "right"/></p>
 
 <p align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cwaku&theme=gruvbox">
