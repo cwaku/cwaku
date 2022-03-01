@@ -20,6 +20,9 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 - I’m looking to collaborate with any **Open - Source web projects**<br>
 - ⚡ Fun fact: _I always try to learn something new and then sleep till it stores in the brain_<br>
 
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwaku&theme=github_dark" alt="cwaku" align = "center"/></p>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Tech & Tools Preference_**
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -55,9 +58,6 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
-
-
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwaku&theme=github_dark" alt="cwaku" align = "center"/></p>
 
 ## Bizness
 
