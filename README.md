@@ -59,7 +59,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 ## Bizness
 
-<!-- :paperclip: [My Resume/CV](https://github.com///blob/master/resumes/resume%20v1.0.pdf)-->
+<!-- :paperclip: [Add My Resume/CV](https://github.com///blob/master/resumes/resume%20v1.0.pdf)-->
 
 - :email: rickymormor1@gmail.com
 
