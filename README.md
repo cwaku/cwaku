@@ -22,7 +22,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 <br>
 
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwaku&theme=github_dark" alt="cwaku" align = "center"/></p>
+[![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Tech & Tools Preference_**
 
@@ -62,7 +62,7 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 ## Bizness
 
-<!-- :paperclip: [My Resume/CV](https://github.com///blob/master/resumes/resume%20v1.0.pdf)-->
+<!-- :paperclip: [Add My Resume/CV](https://github.com///blob/master/resumes/resume%20v1.0.pdf)-->
 
 - :email: rickymormor1@gmail.com
 
@@ -88,18 +88,11 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 <img src="https://github-profile-trophy.vercel.app/?username=cwaku&theme=gruvbox">
 </p>
 
-
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwaku&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=282828"></p>
 
 
-
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cwaku&theme=github_dark" alt="cwaku" align = "left"/></p>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cwaku&theme=github_dark" alt="cwaku" align = "right"/></p>
-
-
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwaku&theme=github_dark" alt="cwaku" align = "left"/></p>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cwaku&theme=github_dark" alt="cwaku" align = "right"/></p>
+[![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cwaku/cwaku/actions/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </details>
 
