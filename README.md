@@ -56,14 +56,15 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 <img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
 
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwaku&theme=github_dark" alt="cwaku" align = "center"/></p>
+
 ## Bizness
 
 <!-- :paperclip: [My Resume/CV](https://github.com///blob/master/resumes/resume%20v1.0.pdf)-->
 
 - :email: rickymormor1@gmail.com
 
-
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwaku&theme=github_dark" alt="cwaku" align = "center"/></p>
 
 <img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" align="left" height="125px">
 <details>
