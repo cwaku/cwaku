@@ -84,7 +84,7 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 ## Github Stats
 <p align=center>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=cwaku&theme=gruvbox">
+<img src="https://github-profile-trophy.vercel.app/?username=cwaku&theme=github_dark">
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cwaku&count_private=true&theme=gruvbox&show_icons=true&hide_border=true"></p>
