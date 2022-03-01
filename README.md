@@ -62,6 +62,9 @@ I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend m
 
 - :email: rickymormor1@gmail.com
 
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwaku&theme=github_dark" alt="cwaku" align = "center"/></p>
+
 <img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" align="left" height="125px">
 <details>
 <summary style="font-size:50px;">
