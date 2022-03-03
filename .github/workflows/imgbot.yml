@@ -1,0 +1,19 @@
+name: Auto Approve
+
+on: pull_request
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Auto Approve
+      uses: hmarr/auto-approve-action@v2.0.0
+      if: github.actor == 'imgbot[bot]'
+      with:
+        github-token: "${{ secrets.README }}"
+    - name: Merge
+      uses: squalrus/merge-bot@v0.2.0
+      if: github.actor == 'imgbot[bot]'
+      with:
+        GITHUB_TOKEN: ${{ secrets.README }}
+        method: squash
