@@ -1,13 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I%20see%20you%20found%20me&fontSize=70&fontAlignY=30&desc=...read%20a%20little%20about%20me&descSize=30&descAlignY=55&animation=blinking"/>
 
 ## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<br>
+
 
 ![](https://engzxt0hphki2e3.m.pipedream.net)
 
-I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend most of time coding outstanding projects or doing Digital Marketing stuff.
+<img src="https://img.shields.io/badge/Ricky%20Mormor-is%20Available for a Remote Work-greenyellow" />
+
 <br>
 
+I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend most of time coding outstanding projects or doing Digital Marketing stuff.
+<br>
 
 :mailbox: Reach me out!
 
@@ -86,16 +89,14 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox&hide_border=true&custom_title=Weekly%20wakatime%20stats"></p>
 
 ## Github Stats
-<p align=center>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=cwaku&theme=gruvbox">
-</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwaku&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=282828"></p>
 
 
 [![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/github_dark//2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/github_dark//3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/github_dark//4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![Metrics]()
 
 </details>
 
