@@ -90,11 +90,7 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 
 ## Github Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwaku&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=282828"></p>
-
-
-[![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/github_dark//2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github_dark//3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/github_dark//4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center"><img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"><img src="./profile-summary-card-output/github_dark//2-most-commit-language.svg"></p>
 
 <p align="center">
 <img src="./github-metrics.svg"/>
