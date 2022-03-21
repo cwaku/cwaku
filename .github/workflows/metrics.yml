@@ -56,6 +56,13 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
+          plugin_nightscout: yes
+          plugin_nightscout_datapoints: 12
+          plugin_nightscout_highalert: 180
+          plugin_nightscout_lowalert: 80
+          plugin_nightscout_urgenthighalert: 250
+          plugin_nightscout_urgentlowalert: 50
+          plugin_nightscout_url: https://example.herokuapp.com
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
@@ -63,6 +70,10 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_year: current-year
           plugin_starlists: yes
           plugin_starlists_limit: 2
           plugin_starlists_limit_languages: 8
