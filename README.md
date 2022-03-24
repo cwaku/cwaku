@@ -6,8 +6,8 @@
 
 <br>
 
-I'm Ricky Mormor a Full Stack Web Developer | Blockchain enthusiast.
-I am deeply inn love with pair-programming, JavaScript, Ruby, Rails, React, Redux and remote work. Improving open-source projects, one commit at a time
+I'm Ricky Mormor, a Full Stack Web Developer and a Blockchain enthusiast. <br>
+I am deeply in love with pair-programming, JavaScript, Ruby, Rails, React, Redux and remote work. Improving open-source projects, one commit at a time
 <br>
 
 :mailbox: Reach me out!
