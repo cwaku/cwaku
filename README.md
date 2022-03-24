@@ -2,14 +2,12 @@
 
 ## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-
-![](https://engzxt0hphki2e3.m.pipedream.net)
-
 <img src="https://img.shields.io/badge/Ricky%20Mormor-is%20Available for a Remote Work-greenyellow" />
 
 <br>
 
-I'm Ricky Mormor a Full Stack Web Developer and Digital Marketer. <br> I Spend most of time coding outstanding projects or doing Digital Marketing stuff.
+I'm Ricky Mormor a Full Stack Web Developer | Blockchain enthusiast.
+I am deeply inn love with pair-programming, JavaScript, Ruby, Rails, React, Redux and remote work. Improving open-source projects, one commit at a time
 <br>
 
 :mailbox: Reach me out!
