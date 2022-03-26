@@ -67,7 +67,6 @@ I am deeply in love with pair-programming, JavaScript, Ruby, Rails, React, Redux
 ## Bizness
 
 <!-- :paperclip: [Add My Resume/CV](https://github.com///blob/master/resumes/resume%20v1.0.pdf)-->
-
 - :email: rickymormor1@gmail.com
 
 
