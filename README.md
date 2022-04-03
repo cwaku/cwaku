@@ -1,18 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I%20see%20you%20found%20me&fontSize=70&fontAlignY=30&desc=...read%20a%20little%20about%20me&descSize=30&descAlignY=55&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
 
 ## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<img src="https://img.shields.io/badge/Ricky%20Mormor-is%20Available for a Remote Work or Collaboration-greenyellow" />
+:mailbox: Reach out to me!
 
-<img src="https://img.shields.io/badge/Ricky%20Mormor-is%20Available for a Remote Work-greenyellow" />
+[![Twitter Badge](https://img.shields.io/badge/-@rickymormor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickymormor)](https://twitter.com/rickymormor) [![Linkedin Badge](https://img.shields.io/badge/-rickymormor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickymormor/) [![Mail Badge](https://img.shields.io/badge/-@rickymormor-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-rickymormor1@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rickymormor1@gmail.com)
 
 <br>
 
 I'm Ricky Mormor, a Full Stack Web Developer and a Blockchain enthusiast. <br>
 I am deeply in love with pair-programming, JavaScript, Ruby, Rails, React, Redux and remote work. Improving open-source projects, one commit at a time
 <br>
-
-:mailbox: Reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@rickymormor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickymormor)](https://twitter.com/rickymormor) [![Linkedin Badge](https://img.shields.io/badge/-rickymormor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickymormor/) [![Mail Badge](https://img.shields.io/badge/-@rickymormor-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-rickymormor1@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rickymormor1@gmail.com)
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
@@ -23,10 +21,6 @@ I am deeply in love with pair-programming, JavaScript, Ruby, Rails, React, Redux
 - 😄 Pronouns: **_He/His_** or **_TeamWorker_**
 - I’m looking to collaborate with any **Open - Source web projects**<br>
 - ⚡ Fun fact: _I always try to learn something new and then sleep till it stores in the brain_<br>
-
-<br>
-
-[![](./profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Tech & Tools Preference_**
 
@@ -64,16 +58,9 @@ I am deeply in love with pair-programming, JavaScript, Ruby, Rails, React, Redux
 <img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
 
-## Bizness
-
-<!-- :paperclip: [Add My Resume/CV](https://github.com///blob/master/resumes/resume%20v1.0.pdf)-->
-- :email: rickymormor1@gmail.com
-
-
-<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" align="left" height="125px">
 <details>
 <summary style="font-size:50px;">
-  Click Here To View More Stuff About Me
+  <img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" align="left" height="125px">&nbsp;<h2>Click Here. Trust Me :innocent:_</h2>&nbsp;<img src="https://media.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif"  height="125px">
 </summary>
 
   <br>
@@ -94,4 +81,4 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Done?&fontSize=90&fontAlignY=65&desc=I'd%20love%20to%20hear%20from%20you,%20Don't%20forget%20to%20say%20hi&descSize=30&descAlignY=88&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
