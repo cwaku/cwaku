@@ -9,12 +9,14 @@
 <br>
 
 I'm Ricky Mormor, a Full Stack Web Developer and a Blockchain enthusiast. <br>
-I am deeply in love with pair-programming, JavaScript, Ruby, Rails, React, Redux and remote work. Improving open-source projects, one commit at a time
+I am deeply in love with pair-programming, JavaScript, Ruby,Ruby on Rails, React, Redux and remote work. Improving open-source projects, one commit at a time
+
 <br>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 - 🔭 I’m currently a **student** at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/?grsf=c38nvm/)
+- ✨ Ghana Career Accelerator Intern at Global Startup Ecosystem
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with **outstanding project ideas**. <br>
 - 📫 How to reach me: **rickymormor1@gmail.com.**
