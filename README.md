@@ -14,7 +14,6 @@ I am deeply in love with pair-programming, JavaScript, Ruby,Ruby on Rails, React
 <br>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
-
 - 🔭 I’m currently a **student** at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/?grsf=c38nvm/)
 - ✨ Ghana Career Accelerator Intern at Global Startup Ecosystem
 - :computer: Most used line of code `git commit -m "Initial Commit"`
