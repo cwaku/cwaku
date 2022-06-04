@@ -10,7 +10,6 @@
 
 I'm Ricky Mormor, a Full Stack Web Developer and a Blockchain enthusiast. <br>
 I am deeply in love with pair-programming, JavaScript, Ruby,Ruby on Rails, React, Redux and remote work. Improving open-source projects, one commit at a time
-
 <br>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
