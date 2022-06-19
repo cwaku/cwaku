@@ -67,9 +67,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
+          plugin_notable_from: all
           plugin_notable_types: commit
           plugin_projects: yes
           plugin_projects_limit: 4
