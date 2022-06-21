@@ -64,7 +64,7 @@ I am deeply in love with pair-programming, JavaScript, Ruby, Ruby on Rails, Reac
 
 <details>
 <summary style="font-size:50px;">
-  <img src="https://media.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif" align="left" height="125px">&nbsp;<h2>For more contribtion details, click here</h2>&nbsp;<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" height="125px">
+  <img src="https://media.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif" align="left" height="125px">&nbsp;<h2>More info, click here</h2>&nbsp;<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" height="125px">
   
   
 </summary>
