@@ -10,8 +10,8 @@
 
 <br>
 
-I'm Ricky Mormor, a Full Stack Web Developer and a Blockchain enthusiast. <br>
-I am deeply in love with pair-programming, JavaScript, Ruby, Ruby on Rails, React, Redux and remote work. Improving open-source projects, one commit at a time
+A highly motivated Full-stack Engineer and Blockchain enthusiast who likes to challenge himself with the latest trends. I am looking for companies that value creativity, hard work, and leadership. 
+I am dedicated to creating and properly maintaining web apps with a passion for creative solutions. While it all started as an interest in code, later on, I found myself E-learning and studying by myself through online courses until I enrolled in Microverse Program.
 <br>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
