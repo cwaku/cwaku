@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3050" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3039" class="">
     <defs>
         <style/>
     </defs>
@@ -1926,28 +1926,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 68.472%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">86%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 6.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 75.18400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">94%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 3.1679999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Ruby</span>
-                                <div class="bar" style="width: 2.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.6079999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <span class="name">Ruby</span>
+                                <div class="bar" style="width: 2.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
@@ -2612,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2022, 00:43:42 (timezone UTC) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 8 Jul 2022, 03:04:51 (timezone UTC) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
