@@ -17,7 +17,6 @@ I am dedicated to creating and properly maintaining web apps with a passion for 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 - 🔭 I recently graduated as a **Full-stack Engineer** at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/?grsf=c38nvm/)
-- ✨ Ghana Career Accelerator Intern at Global Startup Ecosystem
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with **outstanding project ideas**. <br>
 - 📫 How to reach me: **rickymormor1@gmail.com.**
