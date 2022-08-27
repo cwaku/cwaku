@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            54 issue comments
+                            55 issue comments
                         </div>
                     </section>
                     <section>
@@ -1796,6 +1796,28 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by kennankole in <span class="repo">kennankole/portfolio-app</span></div>
+                                    <div class="comment">
+                                        <i>How can I remove this space on the left? Do you have any suggestions? I have tried with no avail</i>
+                                        @kennankole The width of the
+                                        <code>class: main-background</code>
+                                        and its children are causing that. I'd suggest you use flexbox instead of grid. Flexbox helps with a lot of auto-adjusting for you and makes it easier to style. Also, consider removing the hard width of its children.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#13 Desktop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by kennankole in <span class="repo">kennankole/portfolio-app</span></div>
                                     <div class="comment">@kennankole  It's not quite responsive, hence a lot of space to the right as you can see in the screenshot above. Kindly make fix that.</div>
                                 </div>
                             </section>
@@ -1880,24 +1902,6 @@ Implement the above, and you'll be in an excellent position to get your project 
                                 </div>
                                 <div class="details">
                                     <div>opened by keebot-png in <span class="repo">keebot-png/desktop-project</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2 Main page</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by keebot-png in <span class="repo">keebot-png/desktop-project</span></div>
-                                    <div class="comment">@keebot-png I'm sorry to hear.
-I still believe there's enough time, and you can get your project approved with a little push.</div>
                                 </div>
                             </section>
                         </div>
@@ -2118,7 +2122,7 @@ I still believe there's enough time, and you can get your project approved with 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.2306639288158783 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.2731006160164253 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2647,7 +2651,7 @@ I still believe there's enough time, and you can get your project approved with 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2022, 19:05:43 (timezone UTC) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 27 Aug 2022, 20:08:32 (timezone UTC) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
