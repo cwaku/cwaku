@@ -1,8 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
 
-## Hi I'm Ricky <!--<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"/>-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
+
+## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"/>
 [![wakatime](https://wakatime.com/badge/user/a2350486-0183-40b9-bf9f-f2d7d3cf8cb5.svg)](https://wakatime.com/@a2350486-0183-40b9-bf9f-f2d7d3cf8cb5)
-<img src="https://img.shields.io/badge/Ricky%20Mormor-is%20Available for a Remote Work or Collaboration-greenyellow" />
+<img src="https://img.shields.io/badge/Ricky%20Mormor-is%20available for FullStack or Frontend Developer role-greenyellow" />
 
 :mailbox: Reach out to me!
 
@@ -10,13 +11,12 @@
 
 <br>
 
-A highly motivated Full-stack Engineer and Blockchain enthusiast who likes to challenge himself with the latest trends. I am looking for companies that value creativity, hard work, and leadership. 
-I am dedicated to creating and properly maintaining web apps with a passion for creative solutions. While it all started as an interest in code, later on, I found myself E-learning and studying by myself through online courses until I enrolled in Microverse Program.
+Logical and results-driven full stack developer with a strong love for the front end. Dedicated to building and optimizing user-focused websites and applications. Judicious and creative when crafting effective solutions to propel competitive advantage and revenue growth under client’s requirements. Technically proficient, analytical problem solver with a calm and focused demeanour and open to receiving feedback.
 <br>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-- 🔭 I recently graduated as a **Full-stack Engineer** at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/?grsf=c38nvm/)
+- 🔭 I graduated as a **Full-stack Engineer** at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/?grsf=c38nvm/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with **outstanding project ideas**. <br>
 - 📫 How to reach me: **rickymormor1@gmail.com.**
