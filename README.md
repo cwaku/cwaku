@@ -11,7 +11,7 @@
 
 <br>
 
-Logical and results-driven full stack developer with a strong love for the front end. Dedicated to building and optimizing user-focused websites and applications. Judicious and creative when crafting effective solutions to propel competitive advantage and revenue growth under client’s requirements. Technically proficient, analytical problem solver with a calm and focused demeanour and open to receiving feedback.
+Logical and results-driven full stack developer with a strong love for the front end. Dedicated to building user-focused applications using javascript, Typescript, Ruby, Ruby on Rails, ReactJS & Next.js. Judicious and creative when crafting effective solutions to propel competitive advantage and revenue growth under client’s requirements. Analytical problem solver with a calm and focused demeanour and open to receiving feedback.
 <br>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
