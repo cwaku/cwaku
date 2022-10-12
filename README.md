@@ -65,21 +65,9 @@ Logical and results-driven full stack developer with a strong love for the front
 <summary style="font-size:50px;">
   <img src="https://media.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif" align="left" height="125px">&nbsp;<h2>More info, click here</h2>&nbsp;<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" height="125px">
   
-  
 </summary>
 
   <br>
-<!--  
-I love sharing knowledge and putting tutorials and posts together for helping other developers.
-
-<p align="center"><img src="https://readme-jokes.vercel.app/api/"></p>
-
-## Coding Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=cwaku&layout=compact&theme=gruvbox&hide_border=true&custom_title=Weekly%20wakatime%20stats"></p>
-
---## Github Stats
-
-<p align="center"><img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"><img src="./profile-summary-card-output/github_dark//2-most-commit-language.svg"></p>-->
 
 <p align="center">
 <img src="./github-metrics.svg"/>
