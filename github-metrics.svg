@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3312" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3645" class="">
     <defs>
         <style/>
     </defs>
@@ -129,7 +129,7 @@ JavaScript, Typescript, Ruby, Ruby on Rails, ReactJS &amp; Next.js. Looking for 
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 76 users
+                            Following 77 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ JavaScript, Typescript, Ruby, Ruby on Rails, ReactJS &amp; Next.js. Looking for 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.01m added, 620k removed
+                                    1.57m added, 972k removed
                                 </div>
                             </section>
                             <section>
@@ -558,7 +558,7 @@ JavaScript, Typescript, Ruby, Ruby on Rails, ReactJS &amp; Next.js. Looking for 
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 6 commits)</small>
+                    <small class="h-details">(computed from last 7 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1808,6 +1808,106 @@ JavaScript, Typescript, Ruby, Ruby on Rails, ReactJS &amp; Next.js. Looking for 
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 76 commits in
+                                        <span class="repo">cwaku/conversational-app-team3</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#008167d</div>
+                                        <div class="message">Merge pull request #26 from cwaku/develop
+
+Create Registration Form</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#266278c</div>
+                                        <div class="message">Merge pull request #1 from raoularavel/junior
+
+Create Login View</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29e5ce2</div>
+                                        <div class="message">Merge branch 'junior' of https://github.com/raoularavel/conversational-app-team3 into junior</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b410413</div>
+                                        <div class="message">updating index.html</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c45846e</div>
+                                        <div class="message">bug-fix: sql query error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e78c99</div>
+                                        <div class="message">bug: route error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#957047b</div>
+                                        <div class="message">feat: login endpoint -updated packages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bc41fe</div>
+                                        <div class="message">feat: login endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0cfc11c</div>
+                                        <div class="message">bug: code quality checks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05f405b</div>
+                                        <div class="message">bug: code quality issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#203e579</div>
+                                        <div class="message">Merge remote-tracking branch 'refs/remotes/origin/feat/registration-endpoint' into feat/registration-endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77058b2</div>
+                                        <div class="message">bug: code quality checks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f9b790</div>
+                                        <div class="message">bug: removed .env file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96f85bb</div>
+                                        <div class="message">bug-fix: Sorted the connection error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cf5f07</div>
+                                        <div class="message">bug: connecting to database error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40fd710</div>
+                                        <div class="message">removed docker</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ca5926</div>
+                                        <div class="message">feat: reset-password-endpoint -incomplete</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#659b0d3</div>
+                                        <div class="message">feat: login endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#458870b</div>
+                                        <div class="message">feat: created the register route and function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#752bc9d</div>
+                                        <div class="message">chore: initialised the database</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
@@ -1970,22 +2070,6 @@ Use default env var for Pool
                                 <div class="details">
                                     <div>opened by Carl2678 in <span class="repo">Carl2678/setup-mobile-first-part-2</span></div>
                                     <div class="comment">@Carl2678  If you have reached your code review limit, kindly use your extra chances to resubmit for review.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#3 Setup portfolio mobil first -part 2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Carl2678 in <span class="repo">Carl2678/setup-mobile-first-part-2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2476,7 +2560,7 @@ Use default env var for Pool
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.41708542713568 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.19597989949749 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2494,7 +2578,7 @@ Use default env var for Pool
                                     <span class="prefix"></span>
                                     Follower
                                 </div>
-                                <div class="text">Following 76 users</div>
+                                <div class="text">Following 77 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2735,7 +2819,7 @@ Use default env var for Pool
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Nov 2022, 17:15:13 (timezone UTC) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Nov 2022, 18:10:33 (timezone UTC) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
