@@ -2415,7 +2415,7 @@ Questionnaire bugs fix</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.41m out of 375m repositories</span>
+                                    <span class="gh">ranked 1.39m out of 375m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 12 stars</div>
                             </div>
@@ -2539,7 +2539,7 @@ Questionnaire bugs fix</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2023, 16:09:37 (timezone UTC) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 7 Feb 2023, 17:07:32 (timezone UTC) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
