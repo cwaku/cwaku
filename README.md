@@ -3,7 +3,8 @@
 
 ## Hi I'm Ricky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"/>
 [![wakatime](https://wakatime.com/badge/user/a2350486-0183-40b9-bf9f-f2d7d3cf8cb5.svg)](https://wakatime.com/@a2350486-0183-40b9-bf9f-f2d7d3cf8cb5)
-<img src="https://img.shields.io/badge/Ricky%20Mormor-is%20available for FullStack or Frontend Developer role-greenyellow" />
+
+<!--<img src="https://img.shields.io/badge/Ricky%20Mormor-is%20available for FullStack or Frontend Developer role-greenyellow" />-->
 
 :mailbox: Reach out to me!
 
